@@ -1,0 +1,5 @@
+# Cancer Detection
+Dicoding Submission - Membuat aplikasi Deteksi Kanker pada Android Studio dengan mempelajari Image Classification dengan TensorFlow Lite
+
+### Submission Screenshots:
+<img src="https://github.com/MRaihan21/Cancer-Detection/blob/main/screenshoot/deteksi_kanker.gif" width="30%" height="30%" /> <img src="https://github.com/MRaihan21/Cancer-Detection/blob/main/screenshoot/home.png" width="30%" height="30%" /> <img src="https://github.com/MRaihan21/Cancer-Detection/blob/main/screenshoot/crop.png" width="30%" height="30%" /> <img src="https://github.com/MRaihan21/Cancer-Detection/blob/main/screenshoot/analyze.png" width="30%" height="30%" /> <img src="https://github.com/MRaihan21/Cancer-Detection/blob/main/screenshoot/result.png" width="30%" height="30%" /> <img src="https://github.com/MRaihan21/Cancer-Detection/blob/main/screenshoot/history.png" width="30%" height="30%" /> <img src="https://github.com/MRaihan21/Cancer-Detection/blob/main/screenshoot/news.png" width="30%" height="30%" />
